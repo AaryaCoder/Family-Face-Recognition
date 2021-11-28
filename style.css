@@ -1,19 +1,19 @@
 body{
     color: white;
-    background-color:rgb(224, 179, 241);
+    background-color: pink;
 }
 .heading{
     width:80%;
     font-size: 22px;
 }
-.name_of_people{
-    color:lightseagreen;
+.name_of_objects{
+    color:yellow;
 }
 #camera{
     border:2px dashed black;
     width: 350px;
     height: 300px;
 }
-.name_of_people, #result_person_name,#result_person_accuracy{
-    color:lightseagreen;
+.name_of_objects, #result_object_name,#result_object_accuracy{
+    color:yellow;
 }
